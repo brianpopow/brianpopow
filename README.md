@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on [ImageSharp Textures](https://github.com/SixLabors/ImageSharp.Textures)
 - 📫 How to reach me: send an email to popow at gmx de
 
-[:heart: Sponsor](https://github.com/sponsors/brianpopow)
+If you like what I am doing, please consider sponsoring: [:heart: Sponsor](https://github.com/sponsors/brianpopow)
 
 <!---
 brianpopow/brianpopow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
